@@ -32,5 +32,5 @@ FB2.place(x= 290,y=170)
 B3 = ttk.Button(FB2,text='Final Exam schedule',command=Button3)
 B3.place(x=80,y=70)
 B3.pack(ipadx=20,ipady=20)
-#############
+
 GUI.mainloop()
